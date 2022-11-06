@@ -1,2 +1,3 @@
 out
 arduino101_sketch.debug.elf
+.vscode/c_cpp_properties.json
